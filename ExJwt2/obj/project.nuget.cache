@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z7Ig/RhAQ7BrdAeHKHIPS1c0UDIVGW++hQvhfHygIE+QGsAk2e14A0CYbtcYgguCEvYm5am8mqdNybCtnU20Sw==",
+  "dgSpecHash": "UU+vD3j7Syg+zpyvcllTkZEdq0Y54ZsMI3F4kwXqUzXYLpGJwmPHt5zdh2Ox6jjTgEsEuOpgZqKEQNtYa/d0og==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jafapour\\Desktop\\تمرین های asp.net\\identityMicrosoft\\ExJwt2\\ExJwt2.csproj",
+  "projectFilePath": "C:\\Users\\jafapour\\identitywithmicrosoft\\ExJwt2\\ExJwt2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jafapour\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jafapour\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",

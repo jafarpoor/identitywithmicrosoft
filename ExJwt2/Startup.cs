@@ -57,14 +57,14 @@ namespace ExJwt2
 
                 option.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters
                 {
-                    RequireExpirationTime = true,
-                    ValidateLifetime = true,
-                    ValidateIssuer = true,
-                    ValidIssuer = "",
-                    ValidateAudience = true,
-                    ValidAudience = " ",
-                    ValidateIssuerSigningKey = true,
-                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("A441292-4131-4862-99F5-F074D8566DF1"))
+                    //RequireExpirationTime = true,
+                    //ValidateLifetime = true,
+                    //ValidateIssuer = true,
+                    //ValidIssuer = "",
+                    //ValidateAudience = true,
+                    //ValidAudience = " ",
+                    //ValidateIssuerSigningKey = true,
+                    //IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("A441292-4131-4862-99F5-F074D8566DF1"))
                     //TokenDecryptionKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("")),
                 };
 

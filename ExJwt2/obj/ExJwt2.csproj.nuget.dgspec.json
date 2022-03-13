@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jafapour\\Desktop\\تمرین های asp.net\\identityMicrosoft\\ExJwt2\\ExJwt2.csproj": {}
+    "C:\\Users\\jafapour\\identitywithmicrosoft\\ExJwt2\\ExJwt2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jafapour\\Desktop\\تمرین های asp.net\\identityMicrosoft\\ExJwt2\\ExJwt2.csproj": {
+    "C:\\Users\\jafapour\\identitywithmicrosoft\\ExJwt2\\ExJwt2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jafapour\\Desktop\\تمرین های asp.net\\identityMicrosoft\\ExJwt2\\ExJwt2.csproj",
+        "projectUniqueName": "C:\\Users\\jafapour\\identitywithmicrosoft\\ExJwt2\\ExJwt2.csproj",
         "projectName": "ExJwt2",
-        "projectPath": "C:\\Users\\jafapour\\Desktop\\تمرین های asp.net\\identityMicrosoft\\ExJwt2\\ExJwt2.csproj",
+        "projectPath": "C:\\Users\\jafapour\\identitywithmicrosoft\\ExJwt2\\ExJwt2.csproj",
         "packagesPath": "C:\\Users\\jafapour\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jafapour\\Desktop\\تمرین های asp.net\\identityMicrosoft\\ExJwt2\\obj\\",
+        "outputPath": "C:\\Users\\jafapour\\identitywithmicrosoft\\ExJwt2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jafapour\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\jafapour\\Desktop\\تمرین های asp.net\\identityMicrosoft\\ProjctModel\\ProjctModel.csproj": {
-                "projectPath": "C:\\Users\\jafapour\\Desktop\\تمرین های asp.net\\identityMicrosoft\\ProjctModel\\ProjctModel.csproj"
+              "C:\\Users\\jafapour\\identitywithmicrosoft\\ProjctModel\\ProjctModel.csproj": {
+                "projectPath": "C:\\Users\\jafapour\\identitywithmicrosoft\\ProjctModel\\ProjctModel.csproj"
               }
             }
           }
@@ -99,14 +99,14 @@
         }
       }
     },
-    "C:\\Users\\jafapour\\Desktop\\تمرین های asp.net\\identityMicrosoft\\ProjctModel\\ProjctModel.csproj": {
+    "C:\\Users\\jafapour\\identitywithmicrosoft\\ProjctModel\\ProjctModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jafapour\\Desktop\\تمرین های asp.net\\identityMicrosoft\\ProjctModel\\ProjctModel.csproj",
+        "projectUniqueName": "C:\\Users\\jafapour\\identitywithmicrosoft\\ProjctModel\\ProjctModel.csproj",
         "projectName": "ProjctModel",
-        "projectPath": "C:\\Users\\jafapour\\Desktop\\تمرین های asp.net\\identityMicrosoft\\ProjctModel\\ProjctModel.csproj",
+        "projectPath": "C:\\Users\\jafapour\\identitywithmicrosoft\\ProjctModel\\ProjctModel.csproj",
         "packagesPath": "C:\\Users\\jafapour\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jafapour\\Desktop\\تمرین های asp.net\\identityMicrosoft\\ProjctModel\\obj\\",
+        "outputPath": "C:\\Users\\jafapour\\identitywithmicrosoft\\ProjctModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jafapour\\AppData\\Roaming\\NuGet\\NuGet.Config",

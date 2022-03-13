@@ -36,7 +36,7 @@ namespace ExJwt2.Controllers
             {
                 Email = userDto.Email,
                 FullName = userDto.FullName,
-                UId = new Guid(),
+                UId = Guid.NewGuid(),
                 UserName = userDto.UserName ,
                 IsActive = true
             };
